@@ -7,6 +7,7 @@ redis:7.0
 redis:5.0
 nginx:1.24
 mysql:5.7.40
+mysql:8.0.28
 anapsix/alpine-java:8_server-jre_unlimited
 mlikiowa/napcat-docker
 docker.elastic.co/kibana/kibana:8.15.1
