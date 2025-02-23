@@ -17,6 +17,7 @@ jenkins/jenkins:lts-centos7-jdk8
 mongo:6.0
 nacos/nacos-server:v2.2.3
 nacos/nacos-server:v1.4.5
+consul:1.15.4
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #拉取镜像
